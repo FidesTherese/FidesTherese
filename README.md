@@ -7,10 +7,10 @@ I am Fides Thérèse, a LL.B. student living in Japan.
 - Age: 22 y.o.
 - Job: Clinical data analyst (part-time), student (LL.B.)
 - Working Languages:
-    - English: mainly using
-    - Chinese (Mandarin): mainly using
-    - Chinese (Cantonese): mainly using
-    - Japanese: occasionally using, not preferred
+    - English: pre-native, mainly using
+    - Chinese (Mandarin): native, mainly using
+    - Chinese (Cantonese): native, mainly using
+    - Japanese: native, but not preferred due to personal preference
 - More about me:
 
 <div align="center">
