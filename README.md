@@ -5,7 +5,7 @@ I am Fides Thérèse, a LL.B. student living in Japan.
 - Not only politics and sociology, I am currently also learning Python, statistics and finance.
 - Pronouns: She / Her
 - Age: 22 y.o.
-- Job: Clinical data analyst (part-time), student (LL.B.)
+- Job: Cloud Infra Cyber Security Engineer (intern), student (LL.B.)
 - Working Languages:
     - English: pre-native, mainly using
     - Chinese (Mandarin): native, mainly using
